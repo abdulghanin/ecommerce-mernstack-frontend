@@ -10,9 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
     "bcrypt": "^5.1.1",
     "body-parser": "^1.20.2",
     "cloudinary": "^2.5.0",
@@ -24,10 +21,7 @@
     "mongodb": "^6.8.0",
     "mongoose": "^8.5.4",
     "nodemon": "^3.1.4",
-    "stripe": "^16.8.0"
-  }
-=======
->>>>>>> 6784842 (Resolved merge conflicts)
+    "stripe": "^16.8.0",
     "@reduxjs/toolkit": "^2.2.7",
     "@stripe/react-stripe-js": "^2.8.0",
     "@stripe/stripe-js": "^4.4.0",
@@ -60,8 +54,4 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
-<<<<<<< HEAD
-=======
->>>>>>> 27b9c2d (frontend)
->>>>>>> 6784842 (Resolved merge conflicts)
 }
