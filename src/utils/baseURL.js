@@ -1,3 +1,3 @@
 export const getBaseUrl = () => {
-    return "https://backend-mdfljw7ie-abdulghanins-projects.vercel.app";
+    return "https://ecommerce-mernstack-backend1-c3k7.vercel.app";
 }
